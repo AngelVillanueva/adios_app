@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-Prueba de actualización, y esto desde github y esto desde gitlab
+Prueba de actualización, y esto desde github y esto desde gitlab y esto desde la app de Github
